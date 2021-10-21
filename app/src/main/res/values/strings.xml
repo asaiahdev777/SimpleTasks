@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">SimpleTasks</string>
+    <string name="sort">Sort</string>
+    <string name="add">Add</string>
+    <string name="entry">Entry</string>
+    <string name="category">Category</string>
+    <string name="save">Save</string>
+    <string name="ascending">Ascending</string>
+    <string name="descending">Descending</string>
+    <string name="noSort">No sort</string>
+    <string name="numZero">0</string>
+    <string name="currentSheetNTodos">%s %d</string>
+    <string name="delete">Delete</string>
+    <string name="deleteTaskPrompt">Delete task?</string>
+    <string name="defaultString">Default</string>
+    <string name="sheet">Sheet</string>
+    <string name="sheetName">Sheet name</string>
+    <string name="newSheet">New sheet</string>
+    <string name="plusNew">+ new</string>
+    <string name="sheetNameString">%s (%d)</string>
+    <string name="newString">New</string>
+    <string name="deleteCurrentSheet">Delete sheet \"%s\"?</string>
+</resources>
